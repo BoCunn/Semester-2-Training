@@ -1,3 +1,9 @@
 [submodule "Semester-2-Training/Projects"]
 	path = Semester-2-Training/Projects
 	url = https://github.com/BoCunn/DataManipulationTest
+[submodule "Semester-2-Trainging/Week2"]
+	path = Semester-2-Trainging/Week2
+	url = https://github.com/BoCunn/DataManipulationTest
+[submodule "Semester-2-Training/Week2"]
+	path = Semester-2-Training/Week2
+	url = https://github.com/BoCunn/DataManipulationTest
