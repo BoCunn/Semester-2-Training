@@ -16,3 +16,6 @@
 [submodule "Week1"]
 	path = Week1
 	url = https://github.com/BoCunn/DataManipulationTest
+[submodule "Week3"]
+	path = Week3
+	url = https://github.com/BoCunn/Normalization-Classification
