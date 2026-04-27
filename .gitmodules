@@ -19,3 +19,9 @@
 [submodule "Week3"]
 	path = Week3
 	url = https://github.com/BoCunn/Normalization-Classification
+[submodule "Feature-Engineering"]
+	path = Feature-Engineering
+	url = https://github.com/BoCunn/Feature-Engineering
+[submodule "Week4"]
+	path = Week4
+	url = https://github.com/BoCunn/Feature-Engineering
