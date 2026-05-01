@@ -28,3 +28,6 @@
 [submodule "Week6"]
 	path = Week6
 	url = https://github.com/BoCunn/Evaluation-Metrics
+[submodule "Week7"]
+	path = Week7
+	url = https://github.com/BoCunn/Feature-Selection
