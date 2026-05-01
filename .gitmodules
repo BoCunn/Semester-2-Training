@@ -25,3 +25,6 @@
 [submodule "Week5"]
 	path = Week5
 	url = https://github.com/BoCunn/Classifier-Comparison
+[submodule "Week6"]
+	path = Week6
+	url = https://github.com/BoCunn/Evaluation-Metrics
