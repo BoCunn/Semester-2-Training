@@ -22,3 +22,6 @@
 [submodule "Week4"]
 	path = Week4
 	url = https://github.com/BoCunn/Feature-Engineering
+[submodule "Week5"]
+	path = Week5
+	url = https://github.com/BoCunn/Classifier-Comparison
