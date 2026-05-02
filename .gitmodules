@@ -31,3 +31,6 @@
 [submodule "Week7"]
 	path = Week7
 	url = https://github.com/BoCunn/Feature-Selection
+[submodule "Week8"]
+	path = Week8
+	url = https://github.com/BoCunn/Reproducibility
