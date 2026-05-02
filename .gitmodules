@@ -34,3 +34,6 @@
 [submodule "Week8"]
 	path = Week8
 	url = https://github.com/BoCunn/Reproducibility
+[submodule "Week9"]
+	path = Week9
+	url = https://github.com/BoCunn/Baseline-Paper-Replication
